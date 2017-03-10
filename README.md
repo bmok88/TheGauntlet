@@ -1,6 +1,8 @@
 # Project Name
 
-> Pithy project description
+The Gauntlet is a social media platform that allows users to embrace competition in a fun and friendly manner. Users can submit custom challenges where others can respond to and try to "one-up" the challenge. People will vote on the challenges and responses, and users of the application are ranked based on total up votes. At its core, The Gauntlet is designed to be a mobile app that encourages users to be more social and lively.
+
+The front-end is built with React, using Redux as the state manager and Bootstrap/HTML for styling and structure. We used a Node/Express server with MySQL and Knex for the database. Users are authenticated through session storage.
 
 ## Team
 
